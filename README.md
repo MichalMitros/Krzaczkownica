@@ -1,2 +1,2 @@
 # Krzaczkownica
-Prosty program do nauki języka japońskiego.
+Prosty program do nauki hiragany - alfabetu japońskiego.
